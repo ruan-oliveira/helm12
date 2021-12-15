@@ -1,0 +1,6 @@
+dependencies:
+- name: dependencia
+  repository: file://../common/dependencia
+  version: 0.1.0
+digest: sha256:97da665f63f533ed6b6a41692418dda100e6a2e6c65f81cc8bf97ba6f964f173
+generated: "2021-12-15T20:39:19.70206-03:00"
