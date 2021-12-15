@@ -9,4 +9,5 @@ dependencies:
   - name: dependencia
     version: "0.1.0"
     repository: file://../common/dependencia
+    condition: dependencia.enabled
 
