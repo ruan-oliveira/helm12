@@ -46,6 +46,10 @@ livenessProbe:
     path: /
     port: http
 
+readinessProbe:
+  httpGet:
+    path: /
+    port: http
 
 ingress:
   enabled: false
